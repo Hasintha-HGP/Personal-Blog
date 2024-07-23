@@ -1,0 +1,101 @@
+.split {
+  height: 100%;
+  
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.left {
+  left: 0;
+   width:20%;
+   background-color:#708090;
+  
+}
+
+.right {
+  right: 0;
+  width:80%;
+  background: url(IMG-20231127-WA0010.jpg) no-repeat ;
+  background-size:100vw 100vh;
+  background-color:#C0C0C0;
+  
+}
+
+.welcome{
+ color:black;
+text-align:center;
+
+}
+
+.Footer{
+margin-top:10px;
+}
+.Box{
+  margin: 30px;
+  background-color: #5F9EA0;
+  border: 5px solid black;
+  opacity: 0.7;
+  
+}
+.Box h1{
+color:black;
+font-size: 50px;
+text-align: center;
+
+
+}
+.Box p{
+  color: black;
+  text-align: center;
+  font-size: 25px;
+}
+.left p{
+  color: black;
+  text-align: center;
+}
+.profile{
+  
+height: 200px;
+width: 200px;
+ border-radius: 50%;
+ border: 3px solid black;
+}
+.name{
+  color: black;
+  font-size: 30px;
+  
+}
+.section1 a{
+  color: black;
+  text-decoration: none;
+  text-align: center;
+  
+}
+.section1 a:hover{
+  color: blue;
+}
+.section2 img{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+.section2 table{
+  margin-left: 50px;
+}
+.section3 img{
+  border-radius: 70%;
+  height: 30px;
+  width: 30px;
+}
+.section3 table{
+  margin: auto;
+  margin-top: 300px;
+}
+.section3 td{
+  padding: 10px;
+}
+
